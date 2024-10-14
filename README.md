@@ -29,8 +29,9 @@ Apache Kafka/Flink
 Clone the repository.
 Install dependencies using requirements.txt.
 Explore the notebooks and examples provided.
-Contributions:
-# Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
+
+# Contributions:
+Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
 
 This description highlights key topics, tools, and the scope of the repository. You can modify it further to suit your specific focus.
 
