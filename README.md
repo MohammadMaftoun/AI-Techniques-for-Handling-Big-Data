@@ -21,10 +21,15 @@ Includes links to various public big data sources and sample datasets for practi
 
 # Requirements:
 Python 3.x
+
 Jupyter Notebooks
+
 PySpark
+
 TensorFlow/PyTorch
+
 Apache Kafka/Flink
+
 # How to Use:
 Clone the repository.
 Install dependencies using requirements.txt.
