@@ -17,7 +17,7 @@ Data Visualization: Methods for visualizing and interpreting complex data at sca
 Cloud-based Solutions: Leveraging cloud platforms (AWS, GCP, Azure) for AI-driven big data solutions.
 
 # Datasets:
-Includes links to various public big data sources and sample datasets for practice.
+Involves links to various public big data sources and sample datasets for practice.
 
 # Requirements:
 Python 3.x
@@ -36,6 +36,7 @@ Install dependencies using requirements.txt.
 Explore the notebooks and examples provided.
 
 # Contributions:
+
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
 
 This description highlights key topics, tools, and the scope of the repository. You can modify it further to suit your specific focus.
