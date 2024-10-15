@@ -6,7 +6,7 @@ This repository explores various AI techniques and algorithms for processing and
 # Features:
 Data Preprocessing: Techniques for cleaning, transforming, and optimizing massive datasets.
 
-Scalable Machine Learning: Algorithms for handling large datasets, including distributed computing frameworks like Apache Spark and Hadoop.
+Scalable Machine Learning: Models for handling large datasets, including distributed computing frameworks like Apache Spark and Hadoop.
 
 Deep Learning for Big Data: Neural networks architectures optimized for big data processing using TensorFlow, PyTorch, etc.
 
