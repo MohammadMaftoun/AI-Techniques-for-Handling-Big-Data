@@ -1,5 +1,5 @@
 # AI-Techniques-for-Handling-Big-Data
-This repository explores various AI techniques and algorithms for processing and analyzing big data efficiently. It includes hands-on examples, tools, and resources for working with large-scale datasets across different domains.
+This repository explores various AI techniques and algorithms for efficiently processing and analyzing big data. It includes hands-on examples, tools, and resources for working with large-scale datasets across domains.
 
 ![BigData](https://articonf.eu/wp-content/uploads/2020/08/2020-8-Blog-%E2%80%94-UNIKLU-%E2%80%94-decentralised-Big-Data-sharing.jpg)
 
@@ -8,7 +8,7 @@ Data Preprocessing: Techniques for cleaning, transforming, and optimizing massiv
 
 Scalable Machine Learning: Models for handling large datasets, including distributed computing frameworks like Apache Spark and Hadoop.
 
-Deep Learning for Big Data: Neural networks architectures optimized for big data processing using TensorFlow, PyTorch, etc.
+Deep Learning for Big Data: Neural network architectures optimized for big data processing using TensorFlow, PyTorch, etc.
 
 Real-time Data Processing: Implementations of AI models for streaming data using tools like Kafka and Flink.
 
