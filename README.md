@@ -40,7 +40,7 @@ Explore the notebooks and examples provided.
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
 
-This description highlights key topics, tools, and the repository's scope. You can modify it further to suit your specific focus.
+This description emphasizes key topics, tools, and the repository's scope. You can modify it further to suit your specific focus.
 
 
 
