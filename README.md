@@ -1,6 +1,6 @@
 # AI-Techniques-for-Handling-Big-Data
 
-Big data refers to huge and complex datasets that are difficult to manage, process, and analyze using traditional data processing tools and techniques. It contains not just the size of the data but also the speed at which it is generated and the variety of formats it comes in. Big data is a cornerstone of modern technologies such as artificial intelligence, machine learning, and advanced analytics. This repository explores various AI techniques and algorithms for efficiently processing and analyzing big data. It includes hands-on examples, tools, and resources for working with large-scale datasets across domains.
+  Big data refers to huge and complex datasets that are difficult to manage, process, and investigate using traditional data processing tools and techniques. It contains not just the size of the data but also the speed at which it is generated and the variety of formats it comes in. Big data is a cornerstone of modern technologies such as artificial intelligence, machine learning, and advanced analytics. This repository explores various AI techniques and algorithms for efficiently processing and analyzing big data. It includes hands-on examples, tools, and resources for working with large-scale datasets across domains.
 
 ![BigData](https://articonf.eu/wp-content/uploads/2020/08/2020-8-Blog-%E2%80%94-UNIKLU-%E2%80%94-decentralised-Big-Data-sharing.jpg)
 
