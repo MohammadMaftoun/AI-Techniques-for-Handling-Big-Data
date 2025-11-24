@@ -9,11 +9,11 @@ Data Preprocessing: Techniques for cleaning, transforming, and optimising massiv
 
 Scalable Machine Learning: Models for handling large datasets, including distributed computing frameworks like Apache Spark and Hadoop.
 
-Deep Learning for Big Data: Neural network architectures optimized for big data processing using TensorFlow, PyTorch, etc.
+Deep Learning for Big Data: Neural network architectures optimised for big data processing using TensorFlow, PyTorch, etc.
 
 Real-time Data Processing: Implementations of AI models for streaming data using tools like Kafka and Flink.
 
-Data Visualization: Methods for visualizing and interpreting complex data at scale.
+Data Visualisation: Methods for visualising and interpreting complex data at scale.
 
 Cloud-based Solutions: Leveraging cloud platforms (AWS, GCP, Azure) for AI-driven big data solutions.
 
